@@ -1,0 +1,173 @@
+Name,Tagline,Technologies,Topics
+MDAnalysis,Analysis of molecular simulations data with Python,python - cython - c/c++,science - computational-chemistry - high-performance-computing - molecular-simulation - soft-matter-physics
+PostgreSQL,The Most Advanced Open Source Relational Database,c - python - postgresql - javascript - sql,web - database - ui - sql - Benchmark
+JdeRobot,Toolkit for developing Robotics applications,python - ros - gazebo - opencv - tensorflow,education - artificial intelligence - robotics - computer vision - developer tools
+Red Hen Lab,Research on Multimodal Communication,python - machine learning - computer vision - nlp - data science,data science - media - language - multimodal communication - gesture
+The Mifos Initiative,End Poverty One Line of Code at a Time,android - java - kotlin - spring - angular,cloud - ai - fintech - financial inclusion - mobile banking
+libssh,The SSH library,c - ssh,security - cryptography
+FOSSology,Open Source License Compliance by OSS,python - postgresql - c/c++ - go - php,automation - spdx - license compliance - nlp - compliance automation
+rocket.chat,Open source team chat and communications platform,javascript - raspberry pi - typescript - node - meteorJS,communications - messaging - group chat - Team Collaboration - Chat platform
+Processing Foundation,To empower all people to learn to program,python - javascript - android - java - opengl,education - web - graphics - creative coding - design
+XMPP Standards Foundation,XSF develops an open-standard messaging protocol,vala - xmpp - swift - dart - Objective C,instant messaging - chat - WebRTC - Jingle - Real-Time Communication
+SageMath,Open-source mathematics software system,python - cython,mathematics - education - research
+GeomScale,Scalable geometric and statistical software,python - c++ - r - jupyter - github-actions,mathematics - data science - computational biology - computational geometry - statistics
+Fortran-lang,High-performance parallel programming language,python - c++ - fortran,compilers - programming languages - build systems - libraries - Fortran
+libcamera,Provide an open source camera stack for linux,c/c++ - linux kernel - qt5 - gstreamer - v4l2,camera - image prcessing
+Chromium,Fast - seamless - safe - and reliable web for all,python - javascript - java - c++ - git,web - browser - operating-system
+National Resource for Network Biology (NRNB),Developing open source tools for network biology,python - javascript - java - xml - r,web application - data science - graphics - scientific computing - network biology
+Ivy (lets-unify.ai),All of AI - at your Fingertips.,python - cython - tensorflow - pytorch - Jax,machine learning - artificial intelligence - computation graph - code conversion - unified API
+CERN-HSF,Umbrella for Particle Physics-related projects,python - c/c++ - data analysis - artificial intelligence - container orchestration,machine learning - big data - algorithmics - particle physics - Performance Optimisation
+Open Genome Informatics,Open access genomics and bioinformatics projects,python - react - r-project - graph - angular,genomics - bioinformatics - cloud - biology - data discovery
+INCF,An open & FAIR neuroscience standards organization,python - javascript - java - c++ - gpu,machine learning - data visualization - neuroscience - brain modelling - neuroimage processing
+The Tor Project,Defend yourself against tracking and surveillance.,c - python - web - rust,security - privacy - anti-censorship - Human Rights - Surveillance
+mlpack,a fast - flexible machine learning library,c++ - C++ template metaprogramming,machine learning - embedded - ai - deep learning - Neural networks
+MetaBrainz Foundation Inc,Open music / book metadata - music recommendations,python - react - perl - postgres - spark,open data - music - books - Music recommendation - music social network
+The Honeynet Project,Honeypots and Threat Intelligence R&D,python - javascript - django - go - docker,honeypots - malware analysis - Threat Intelligence
+Open Chemistry,Advancing Open Source & Open Science for Chemistry,python - javascript - opengl - c++ - c++14,data science - graphics - scientific visualization - cheminformatics - quantum chemistry
+GRAME,Domain specific language for audio,c - python - javascript - c++ - typescript,audio - compiler - digital signal processing - function programming language
+The NetBSD Foundation,Of course it runs NetBSD,c - shell script - make - unix - bsd,kernel - packaging - userland - unix - bsd
+Learning Equality,Equity in education to transform lives,python - javascript - django - vue.js,education - distributed databases - offline - learning
+cBioPortal for Cancer Genomics,Aid discovery in complex cancer genomics data,mysql - javascript - java - react - typescript,genomics - cancer - bioinformatics - big data - precision medicine
+Zulip,Modern team chat app designed for efficiency.,python - django - css - typescript - electron,great developer tooling - visual design - teaching quality codebase - team chat - integrations
+RTEMS Project,A real-time operating system for Earth & Space,python - c/c++ - assembly - posix,kernel - embedded - real-time - multicore - rtos
+KDE Community,International team developing Open Source software,c++ - qt - qml - data structures,education - science - applications - desktop environment
+Kiwix,Internet content available offline.,python - perl - c++ - nodejs - kotlin,offline - browser - compression
+omegaUp,Open CS Education as a catalyst for social change,python - mysql - php - typescript - vue.js,education - web - cloud - edtech - UX/UI
+The Palisadoes Foundation,Transforming non-profit organizations in the cloud,mongodb - flutter - graphql - typescript,web - api - database - cloud - mobile
+Ste||ar group,Shaping a Scalable Future,c++ - hpc,library - optimization - parallel algorithms - hpx - application
+strace,Linux syscall tracer,c - shell - make - autotools - gawk,debugging - tracing - diagnostic
+Pitivi,Allowing self-expression through film-making,c - python - gtk - gstreamer,video processing - video editing - film-making
+Society for Arts and Technology (SAT),Create teleimmersive multisensorial experiences.,python - javascript - opengl - c++ - supercollider,web - graphics - cloud - multimedia - accessibility
+Oppia Foundation,Free platform for interactive - tutor-like lessons,python - google app engine - angular - typescript,education - web - community - nonprofit - social impact
+Machine Learning for Science (ML4SCI),Machine learning applications in science,python - machine learning - c++ - data analysis - artificial intelligence,machine learning - science and medicine - algorithms - physics - astronomy
+OpenMRS,Write Code - Save Lives.,mysql - javascript - java - fhir - Cypress,platform - frontend - Electronic Medical Record System - QA automation
+FLARE,Industry leading malware analysis,python - ida-pro - Ghidra,emulation - disassembly - decompilation - malware-analysis - reverse-engineering
+X.Org Foundation,X Window System and related projects (Mesa - DRI - Wayland - etc.),opengl - vulkan - x11 - wayland - DRM,graphics - kernel - drivers
+VideoLAN,Open source believers rocking the multimedia world,c - c++ - qt - assembly - video,audio - streaming - video - codecs - media database
+Global Alliance for Genomics and Health,We develop genomics tools to benefit human health,python - postgresql - java - react - rust,web - genomics - bioinformatics - genetics - standards
+Swift,Fast - safe - and expressive programming language,c++ - cmake - swift,compilers - cross-platform - Packages - Server development - Standard Libraries
+CircuitVerse.org,Build and learn logic circuits in the cloud!,javascript - rails - canvas,education - web - simulation - pedagogy - digital logic design
+SQLancer,Automatically testing database systems,java - sql,fuzzing - Automated Testing - Logic bugs - Database systems
+Genome Assembly and Annotation,Providing freely accessible genomic data,python - mysql - docker - pytorch - nextflow,machine learning - genomics - big data - cloud - hpc
+OpenStreetMap,Create and distribute free geodata for the world,python - javascript - java - c++ - sql,databases - routing - gis - ui - geocoding
+OpenVINO Toolkit,Make AI inference faster and easier to deploy!,python - c++ - x86,deep learning - Neural networks - Edge AI - DL-inference
+The JPF team,JPF is a special JVM for software verification,android - java - distributed systems - jvm - smt solvers,model checking - symbolic execution - verification of concurrent systems - program analysis - test input generation
+Submitty,Homework Autograding and Course Management Tools,python - postgresql - javascript - c++ - php,education - visualization - web - privacy/security - communication
+AFLplusplus,State of the art fuzzing for better security,llvm - rust - fuzzing - qemu,fuzzing - ci
+coreboot,Fast - secure and flexible BIOS firmware,c - assembly - arm - x86,hardware - drivers - firmware - boot loader - BIOS
+R project for statistical computing,R software for statistical computing & graphics,c - javascript - c++ - r-project - fortran,visualization - machine learning - data science - graphics - statistics
+GNU Octave,Free Your Numbers,c++ - hg,mathematics - scientific computing - numerical computation - numerical methods - matlab
+Metasploit,World’s most used penetration testing framework,c - python - postgresql - ruby - assembly,security - penetration testing - offensive security - exploitation
+GNU Compiler Collection (GCC),GNU compilers,c/c++ - gnu make - gnu autotools,compilers - developer tools - toolchain - openmp - link time optimization
+GnuTLS,C library implementing TLS and DTLS,c - Cryptography - TLS,security - cryptography - TLS - DTLS
+Git,Fast -Scalable -Distributed revision control system,shell script - git - c language,version control - dvcs
+OpenCV,++ beneficial uses of computer vision in society,python - c++ - deep learning - ai,robotics - computer vision - ai - deep learning
+ScummVM,Adventure and RPG preservation project,opengl - lua - c++ - assembly - sdl,games - game engines - software preservation - software archeology
+Haiku,Operating system that targets personal computing.,c++ - posix - unix,desktop - kernel - network - media - gui
+CCExtractor Development,TV - Rust - Flutter - Linux - VR and C. In any order.,c - linux - rust - flutter,vr - linux - video - subtitles - mobile
+Django Software Foundation,Web framework for perfectionists with deadlines,python - django,web - python
+libvirt,Virtualization abstraction library,kvm - hypervisor - qemu - lxc,virtualization - library
+AOSSIE,Australian Umbrella Org for Open-Source Projects,python - javascript - machine learning - scala - Blockchain,machine learning - electronic voting - natural language processing - social science
+UC OSPO,Amplifying Research Impact through Open Source,python - c/c++ - visualization - VLSI - ros/gazebo,hardware - data science - networking - data management - systems
+CNCF,Building sustainable ecosystems for cloud native,prometheus - kubernetes - OpenTelemetry - envoy,cloud - cloud native - observability
+Kotlin Foundation,Advance the Kotlin programming language,gradle - kotlin - jvm - Parsers & Compilers - Multiplatform,compilers - programming languages - software development - libraries - Programming & Build Tools
+TARDIS RT Collaboration,Exploring supernovae made easy,python - numba - numpy - jupyter - pandas,visualization - big data - simulation - astrophysics
+Wagtail,The powerful Python CMS for modern websites,python - javascript - django,web - accessibility - cms
+Invesalius,3D Medical visualization and neuronavigation tool,python - cython - numpy - dicom - Vtk,ehealth - medical imaging - 3D Reconstruction - 3d printing - Neuronavigation
+Synfig,Open-source 2D animation software,python - c++ - gtk - gtkmm,2d/3d graphics - animation - vector graphics
+Mayor's Office of New Urban Mechanics,Exploring new approaches to civic life.,python - javascript - ruby - tensorflow,web - machine learning - gis - civic tech - analytics
+The Julia Language,A fresh approach to technical computing,machine learning - julia - data science - gui - models,math - machine learning - science - data science - graphs
+GNOME Foundation,A diverse and sustainable free software desktop.,c - linux - rust - gtk - Flatpak,operating systems - desktop - graphics - open source - apps
+Mantis,Stream Processing Platform for Operational Analytics,java - Rxjava - Akka - Netty,cloud - distributed systems - Operational Analytics
+Wikimedia Foundation,Brings free educational content to the world,python - javascript - html - php - css,semantic web - wikipedia - wikimedia - mediawiki - i18n
+openSUSE Project,Makers' choice for sysadmins - developers & users,python - ruby - perl - rust - reactjs javascript,AIML - operating system developer tools - containers kubernetes - Security Cryptography - licensing & software quality QA
+Gentoo Foundation,A flexible - source-based Linux distribution.,c - python - shell - linux - bash,operating systems - security - embedded - init - package
+OpenAstronomy,Look at the Universe with the power of open source,c - python - julia,image processing - astronomy - solar physics - high energy astrophysics
+The ENIGMA Team,A free rapid game development environment.,opengl - c++ - qt5,graphics - game development - compiler - programming - game design
+FreeType,FreeType is a software library to render fonts.,c - autotools - meson,library - rendering - fonts - opentype - truetype
+OSGeo (Open Source Geospatial Foundation),The Open Source Geospatial Foundation,c - python - javascript - java - c++,open science - gis - citizen science - geolocation - mapping
+Dart,Dart is a client language for apps on any platform,flutter - dart,programming languages - mobile apps
+Eclipse Foundation,The Global Open Source Foundation,java - che - deeplearning - eclipsejavaide - jakartaee,robotics - automotive - tools - cloud native java - iot & edge
+checkstyle,Helps to adheres of Java coding standard,java - antlr,static code analysis‎ - code review tool - coding standards - coding conventions
+Jenkins,Jenkins - build great things at any scale,javascript - java - go - docker - kubernetes,developer tools - automation - continuous integration - continuous delivery - devops
+FreeCAD,Cross-platform 3D parametric modeler,python - c++ - qt - OpenCASCADE - OpenInventor,engineering - graphics - cad - architecture - CAM
+BeagleBoard.org,Open hardware computing for educators and makers,linux - fpga - risc-v - dsp - Zephyr RTOS,robotics - iot - ai - software defined radio - Personal Server
+LibreHealth,Healthcare for Humanity,python - javascript - android - java - dart/flutter,web - deep learning - hfoss - radiology - mobile apps
+Blender Foundation,The Freedom to Create,c - python - opengl - c++ - vulkan,games - graphics - 3d - rendering - animation
+Ceph,The Future of Storage,python - javascript - c++,distributed systems - Software-Defined-Storage
+Pharo Consortium,Modern and innovative programming language,git - gis - roassal - pharo - SUnit,compilers - machine learning - programming languages - virtual machines - Modelling
+SymPy,SymPy is a Python library for symbolic mathematics,python - numpy - jupyter,mathematics - physics - symbolic mathematics
+Internet Health Report,Monitoring the Internet,python - javascript - apache kafka - VueJS,networking - routing - communication - internet - data analytics
+XWiki,The Advanced Open Source Enterprise Wiki,javascript - java - html5 - css3 - velocity,web development - wiki - platform - web applications - structured data
+OWASP Foundation,No more insecure software.,python - javascript - java - ZAP - Juice Shop,web - cloud - application security - cybersecurity - DevSecOps
+CGAL Project,C++ library of computational geometry,c++ - qt,geometry - mesh processing - computation geometry - geometry processing
+Stratosphere Laboratory - Czech Technical University in Prague,Using machine learning and security to help others,python - javascript - redis - flask - docker,machine learning - network security - Security Defense
+Drupal Association,The best open source digital experience platform,mysql - javascript - html - php - symfony,web - cloud - DXP - Massive community - Inclusive
+Plone Foundation,Python-based CMS - with React front-end.,python - javascript - react,web - cms
+Open Technologies Alliance - GFOSS,Promote Open Standards and Open Source,javascript - c/c++ - nodejs - python 3 - Machine Learning (ML),web - robotics - open hardware - c++ - nodered
+Carbon Language,An experimental successor to C++,llvm - c++ - clang - Bison,programming languages - c++
+ArduPilot,World's most advanced autonomous vehicle software,python - lua - c++ - pixhawk,robotics - Drone - autonomous vehicle - UGV - unmanned vehicle
+Python Software Foundation,A programming language used for science & more,python - javascript - c++ - SBOM,security - visualization - compiler - modeling - Backup
+OpenWISP,The Hackable Network Management System,python - javascript - django - lua - openwrt,networking - network management system - wifi - vpn - sdn
+Rizin,Rizin reverse engineering framework and toolset,c - python - go - c++ - qt,reverse engineering - computer security - debugging - emulation - disassembly
+NumFOCUS,NumFOCUS promotes open source scientific software.,python - c++ - r - julia,data science - graphics - scientific computing - numerical computation
+FFmpeg,Record - convert and stream audio & video,c - git - asm,audio - video - subtitles - multimedia
+PEcAn Project,Develop and promote tools for ecosystem modeling,r - docker - api - geospatial,data science - ecosystem models - scientific visualization - climate science - Ecological Forecasting -
+Purr Data,Realtime Audio/Visual Programming Environment,c - javascript - html5 - Emscripten,web - graphics - audio - realtime
+Replay.io,The time-travel debugger for the web,javascript - c++,debugging - devtools - Browsers
+Micro Electronics Research Lab - UITU,Accelerating Engineering Innovation,RISCV - Processor - Hardware - systemonchip - memory,iot - embedded - Processor - System on Chip - RISC-V
+The FreeBSD Project,FreeBSD: An OS for servers to embedded systems,c - llvm - assembly - make - POSIX shell,virtualization - operating system - Embedded System
+Scala Center,Guide and support the Scala community,scala - scala.js - scala native,education - compilers - tooling
+GNU Radio,The free & open software radio ecosystem,python - c++ - qt - simd,real-time - dsp - communications engineering - cybersecurity - Software-Defined Radio
+DBpedia,Global and Unified Access to Knowledge Graphs.,python - javascript - java - scala - rdf,natural language processing - semantic web - linked data - knowledge graph - data extraction
+GNU Image Manipulation Program,GIMP is a cross-platform image editor,c - GEGL,graphics - design - photography - illustration
+CHIPS Alliance,Open source IP - tools & standards for ASIC/FPGA,fpga - chisel - risc-v - systemverilog - ASIC,soc - IP cores - ASIC design - HDL - chiplets
+Cockpit Project,Cockpit is an interactive server admin interface,python - javascript - react,operating systems - web - linux
+GCP Scanner,Security scanning tool for Google Cloud,python - google cloud,security - automation - scanning - google cloud
+Apache Software Foundation,Open source software to the public free of charge,c - java - c++,big data - cloud - libraries - other
+52°North Spatial Information Research GmbH,Innovative ideas & technologies in geoinformatics,javascript - android - java - web services - ogc standards,citizen science - spatial information infrastructures - open standards - data analytics - Geoinformation
+Open Robotics,Development of open source robotics,ros - gazebo - ignition - Open-RMF,robotics - simulation
+GitLab,Everyone can contribute,javascript - ruby on rails - go - ruby - vue,cloud - devops
+The ns-3 Network Simulator Project,ns-3 is a simulation tool for computer networks.,python - django - c++,computer networking - network simulation
+Ruby,Ruby is an object-oriented programming language,c - java - ruby on rails - ruby - rubygems,security - web - cloud - server - application
+BRL-CAD,3D CAD & other computer-aided tech (CAx),python - c/c++ - opengl - opencl - scripting,geometry - 2d/3d graphics - ray tracing - high-performance computing - conversion standards
+Department of Biomedical Informatics - Emory University,Biomedical research to advance healthcare,python - javascript - java - workflows - dicom,science and medicine - data integration - workflows - radiology - distributed system
+MariaDB,The fastest growing Open Source Database,python - javascript - c/c++ - perl - databases,Database Engines - SQL Features
+freifunk,Free and open wireless networks,c - python - javascript - openwrt - gnu/linux,embedded systems - open hardware - routing - wireless networks - federation
+Qdrant,Vector Search Database for the new AI generation.,python - javascript - rust,databases - machine learning - Search Engines
+Creative Commons,Nonprofit building a global digital commons.,python - javascript - php - css - wordpress,web - nonprofit - copyleft - creative commons - legal
+CRIU,Chekpoint/Restore for Linux tasks and containers,c - python - linux - go,cloud - containers - Checkpoint/Restore
+Organic Maps,Offline maps app for tourists - cyclers & hikers,android - java - c++ - ios - OpenStreetMap,privacy - maps - navigation - mobile - offline
+Mathesar,Webapp providing a UX-first interface to databases,python - postgresql - javascript - django - svelte,databases - web - data - nonprofit - self-hosted
+caMicroscope,Toolkit for cancer imaging research,python - javascript - mongodb - tensorflow,data visualization - cancer - medical research - AI Pathology
+Internet Archive,Universal Access to All Knowledge,python - javascript - go - elasticsearch - hadoop,library - media - archiving
+Inkscape,Draw freely!,python - c++ - svg,web - graphics - design
+Jina AI,The most advanced MLOps platform for Multimodal AI,python - machine learning - microservices - data science - Multimodel AI,cloud native - neural search - generative AI - Python MLOps Framework - Mulitmodel Data
+SCoRe Lab,SCoRe Lab develops FOSS softwares for everyone!!!,python - java - go - nodejs - reactjs,security - web - machine learning - cloud
+KubeVirt,Building a virtualization API for Kubernetes,golang - grpc,virtualization - containers - kubernetes
+Unikraft,Unikraft is a fast and secure unikernel SDK,c - python - xen - kvm - assembly language,virtualization - cloud - software reuse - software configurability
+TensorFlow,TensorFlow is a ML framework for everyone.,machine learning - tensorflow - ai - Jax - keras,education - research - machine learning - on-device machine learning
+LLVM Compiler Infrastructure,LLVM Compiler Infrastructure,llvm - c++ - clang - mlir,compilers - development tools - libraries
+Postman,The Future is API-First,json - api - openapi - JSON Schema,testing - api - automation - documentation - data
+QEMU,Open source machine emulator and virtualizer,c - python - linux - rust,systems programming - kernel - compiler - emulator - hypervisor
+Apertium,A free/open-source machine translation platform,python - javascript - c++ - xml - bash,natural language processing - machine translation - language technology - less-resources languages
+gprMax,Simulating electromagnetic wave propagation,python - cuda - openmp - mpi - opencl,science - engineering - geophysics - electromagnetics - ground penetrating radar
+Mixxx,DJ Mixing App With Powerful Features For All DJs,javascript - c++ - qt,music - dj - streaming
+Scalable Parallel Computing Laboratory,High-performance computing for clusters and clouds,python - c++ - mpi - Serverless,high-performance computing - parallel computing - Serverless Computing - faas - Data-centric programming
+MZmine and MS-DIAL,Open-source software for mass spectrometry,java - c# - javafx,data science - graphics - cheminformatics - mass spectrometry - feature detection
+Sugar Labs,Learning software for children,python - gtk - typescript - javascipt,education - games - desktop
+CloudCV,Building platforms for reproducible AI Research,python - django - docker - angularjs - aws,machine learning - artificial intelligence - computer vision - deep learning - AI/ML
+Keploy,E2E testing and mocking toolkit for developers,java - react - golang - graphql - api testing,API Testing - No code platform - Dev Tool - Functional Testing - Mock and Stubs Generation
+AboutCode,Scan code for origin - license and vulnerabilities,python - javascript - Django+PostgreSQL - C/Rust/Go,dependencies - vulnerabilities - SoftwareCompositionAnalysis - License - SBOM
+The Linux Foundation,Non-profit consortium fostering growth of Linux,c - linux - c++ - cups - ipp,kernel - automotive - printing - iio - zephyr
+Free and Open Source Silicon Foundation,Working together for Free and Open Source Silicon,verilog - risc-v - compiler - web development,hardware - debug - web services - simulation - electronic design tools
+International Catrobat Association,Free visual coding apps for computational thinking,javascript - android - swift - kotlin - php,education - visual programming - mobile programming - game engines - creativity tools
+Software and Computational Systems Lab at LMU Munich,Software Verification - SAT & SMT solving,python - java,software verification - benchmarking - program analysis - formal methods - SAT & SMT solving
+MIT App Inventor,Anyone can build apps with global impact.,javascript - java - gwt - swift,education - development tools - android - ios
+SPDX,An open ISO standard for SBOMs,python - java - json - go - rdf,compliance - licensing - data - vulnerabilities
+MoveIt,Moving robots into the future,ros - c++,robotics - motion planning - trajectory generation - kinematics
+LibreOffice,LibreOffice is a free and open source office suite,python - java - c++,office suite - desktop application - end user application
+GNU Project,Development of the GNU Operating System,c - c++ - gcc - autotools,tools - toolchain - command line - OS - binary tools
+MetaCall,Simplifying the embedding of programming languages,python - c++ - rust - nodejs - docker,cloud - polyglot - faas - languages - ffi
+MuseScore,The World’s Most Popular Music Notation Software,c++ - qt - qml - cmake,music - midi - musicxml - sheet music - music notation
+Liquid Galaxy project,We code immersive and interactive aps with G Earth,python - linux - android - flutter - Google Earth,visualization - networking - maps - cluster - ux
